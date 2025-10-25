@@ -15,5 +15,3 @@ To foster cultural identity and bilingual learning among children in Denmark and
 - **UI**: Jetpack Compose
 - **Navigation**: Navigation Compose
 - **State Management**: `remember` and `mutableStateOf`
-
-## 📦 Structure
